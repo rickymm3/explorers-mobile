@@ -1,0 +1,125 @@
+
+Assassin.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BFoot
+  rotate: false
+  xy: 103, 55
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+BForearm
+  rotate: true
+  xy: 77, 47
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+BHand
+  rotate: false
+  xy: 114, 55
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+BLowerleg
+  rotate: true
+  xy: 20, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+BUpperarm
+  rotate: true
+  xy: 63, 47
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+BUpperleg
+  rotate: false
+  xy: 47, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+FFoot
+  rotate: false
+  xy: 91, 55
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+FForearm
+  rotate: true
+  xy: 20, 13
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+FHand
+  rotate: false
+  xy: 89, 46
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+FLowerleg
+  rotate: true
+  xy: 33, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+FUpperarm
+  rotate: false
+  xy: 48, 15
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+FUpperleg
+  rotate: false
+  xy: 32, 15
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 31
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Robe
+  rotate: false
+  xy: 2, 2
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+Scarf
+  rotate: false
+  xy: 35, 49
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 63, 57
+  size: 26, 5
+  orig: 26, 5
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: true
+  xy: 35, 28
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1

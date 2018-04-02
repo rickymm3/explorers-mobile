@@ -1,0 +1,174 @@
+
+Pegasus.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BL-foot
+  rotate: false
+  xy: 212, 22
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+BL-leg-mid
+  rotate: false
+  xy: 172, 10
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+BL-leg-up
+  rotate: true
+  xy: 364, 42
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+BR-foot
+  rotate: false
+  xy: 468, 38
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+BR-leg-mid
+  rotate: false
+  xy: 193, 14
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+BR-leg-up
+  rotate: true
+  xy: 417, 44
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+FL-foot
+  rotate: true
+  xy: 324, 26
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+FL-leg-mid
+  rotate: false
+  xy: 468, 49
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+FL-leg-up
+  rotate: true
+  xy: 333, 44
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+FR-foot
+  rotate: true
+  xy: 208, 2
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+FR-leg-mid
+  rotate: false
+  xy: 304, 22
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+FR-leg-up
+  rotate: false
+  xy: 391, 42
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+L-wing
+  rotate: false
+  xy: 2, 7
+  size: 67, 55
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+R-wing
+  rotate: true
+  xy: 71, 10
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 139, 32
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+ear-L
+  rotate: true
+  xy: 487, 53
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+ear-R
+  rotate: true
+  xy: 193, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 304, 39
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+head-hair
+  rotate: false
+  xy: 444, 41
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 193, 33
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+neck-hair
+  rotate: false
+  xy: 269, 21
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+shade
+  rotate: false
+  xy: 233, 55
+  size: 59, 7
+  orig: 59, 7
+  offset: 0, 0
+  index: -1
+tail-base
+  rotate: false
+  xy: 139, 10
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+tail-end
+  rotate: true
+  xy: 233, 21
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1

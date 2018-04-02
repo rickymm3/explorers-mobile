@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e629f04fe1ba55c4a98702e647187c50
+timeCreated: 1499352450
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Wonder Comic Blotch
+  fontNames:
+  - SF Wonder Comic Blotch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 55d3e350aacf3ce409c12cd1884e703a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

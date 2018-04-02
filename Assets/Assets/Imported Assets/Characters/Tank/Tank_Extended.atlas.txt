@@ -1,0 +1,139 @@
+
+Tank_Extended.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Axe
+  rotate: false
+  xy: 2, 57
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+BFoot
+  rotate: false
+  xy: 164, 217
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+BForearm
+  rotate: false
+  xy: 132, 181
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+BHand
+  rotate: false
+  xy: 79, 100
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+BLowerleg
+  rotate: false
+  xy: 154, 204
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+BUpperarm
+  rotate: false
+  xy: 164, 229
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+BUpperleg
+  rotate: false
+  xy: 183, 232
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+FFoot
+  rotate: false
+  xy: 46, 45
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+FForearm
+  rotate: false
+  xy: 29, 42
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+FHand
+  rotate: false
+  xy: 132, 170
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+FLowerleg
+  rotate: false
+  xy: 64, 81
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+FUpperarm
+  rotate: false
+  xy: 132, 196
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+FUpperleg
+  rotate: false
+  xy: 64, 95
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 64, 112
+  size: 39, 5
+  orig: 39, 5
+  offset: 0, 0
+  index: -1
+Swish
+  rotate: false
+  xy: 2, 119
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 2, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 132, 217
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 2, 21
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 29, 26
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1

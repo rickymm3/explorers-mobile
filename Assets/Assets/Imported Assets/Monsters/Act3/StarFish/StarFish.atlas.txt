@@ -1,0 +1,132 @@
+
+StarFish.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 98
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+hand1-low
+  rotate: false
+  xy: 2, 57
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+hand1-mid
+  rotate: false
+  xy: 49, 69
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+hand1-top
+  rotate: false
+  xy: 38, 105
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+hand2-low
+  rotate: false
+  xy: 43, 41
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+hand2-mid
+  rotate: true
+  xy: 36, 9
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+hand2-top
+  rotate: false
+  xy: 32, 63
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+hand3-low
+  rotate: false
+  xy: 2, 77
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+hand3-mid
+  rotate: false
+  xy: 2, 18
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hand3-top
+  rotate: true
+  xy: 22, 41
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+hand4-low
+  rotate: false
+  xy: 2, 2
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+hand4-mid
+  rotate: false
+  xy: 50, 12
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+hand4-top
+  rotate: true
+  xy: 19, 4
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+hand5-low
+  rotate: false
+  xy: 38, 86
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+hand5-mid
+  rotate: false
+  xy: 36, 24
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hand5-top
+  rotate: true
+  xy: 2, 36
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 19, 22
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+shade
+  rotate: true
+  xy: 23, 60
+  size: 36, 7
+  orig: 36, 7
+  offset: 0, 0
+  index: -1

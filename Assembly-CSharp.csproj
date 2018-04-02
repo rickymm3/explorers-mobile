@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LangVersion>4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{08E26302-9399-91EB-7B10-9B724ED03744}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_2_0;UNITY_2017_2;UNITY_2017;PLATFORM_ARCH_64;UNITY_64;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_PACKMAN;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;PLATFORM_STANDALONE_OSX;PLATFORM_STANDALONE;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_VR;ENABLE_AR;ENABLE_SPATIALTRACKING;ENABLE_CLUSTERINPUT;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Asset Store\Demigiant\DOTween\Examples\Basics.cs" />
+     <Compile Include="Assets\Asset Store\Demigiant\DOTween\Examples\Sequences.cs" />
+     <Compile Include="Assets\Asset Store\Hit&amp;Slashes_FX\SelfDestruct.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Animation.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\AnimationState.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\AnimationStateData.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Atlas.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Attachments\AtlasAttachmentLoader.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Attachments\Attachment.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Attachments\AttachmentLoader.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Attachments\AttachmentType.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Attachments\BoundingBoxAttachment.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Attachments\ClippingAttachment.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Attachments\MeshAttachment.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Attachments\PathAttachment.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Attachments\PointAttachment.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Attachments\RegionAttachment.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Attachments\VertexAttachment.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\BlendMode.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Bone.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\BoneData.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Event.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\EventData.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\ExposedList.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\IConstraint.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\IkConstraint.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\IkConstraintData.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\IUpdatable.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Json.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\MathUtils.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\PathConstraint.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\PathConstraintData.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Skeleton.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\SkeletonBinary.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\SkeletonBounds.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\SkeletonClipping.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\SkeletonData.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\SkeletonJson.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Skin.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Slot.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\SlotData.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\TransformConstraint.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\TransformConstraintData.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-csharp\Triangulator.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Asset Types\AtlasAsset.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Asset Types\SkeletonDataAsset.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\BoneFollower.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\ISkeletonAnimation.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Mesh Generation\DoubleBuffered.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Mesh Generation\SpineMesh.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Mesh Generation\Unused\ArraysMeshGenerator.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Mesh Generation\Unused\ArraysSimpleMeshGenerator.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Mesh Generation\Unused\ArraysSubmeshedMeshGenerator.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Mesh Generation\Unused\ArraysSubmeshSetMeshGenerator.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Mesh Generation\Unused\DoubleBufferedMesh.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Mesh Generation\Unused\ISimpleMeshGenerator.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Mesh Generation\Unused\ISubmeshedMeshGenerator.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\AttachmentTools\AttachmentTools.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\BoundingBoxFollower\BoundingBoxFollower.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\CustomMaterials\SkeletonRendererCustomMaterials.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\Ghost\SkeletonGhost.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\Ghost\SkeletonGhostRenderer.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\Ragdoll\SkeletonRagdoll.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\Ragdoll\SkeletonRagdoll2D.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\SkeletonGraphic\BoneFollowerGraphic.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\SkeletonGraphic\SkeletonGraphic.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\SkeletonRenderSeparator\SkeletonPartsRenderer.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\SkeletonRenderSeparator\SkeletonRenderSeparator.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\SkeletonUtility Modules\SkeletonUtilityEyeConstraint.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\SkeletonUtility Modules\SkeletonUtilityGroundConstraint.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\SkeletonUtility Modules\SkeletonUtilityKinematicShadow.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\SlotBlendModes\SlotBlendModes.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\TK2D\SpriteCollectionAttachmentLoader.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\YieldInstructions\WaitForSpineAnimationComplete.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\YieldInstructions\WaitForSpineEvent.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\Modules\YieldInstructions\WaitForSpineTrackEntryEnd.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\SkeletonAnimation.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\SkeletonAnimator.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\SkeletonExtensions.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\SkeletonRenderer.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\SkeletonUtility\SkeletonUtility.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\SkeletonUtility\SkeletonUtilityBone.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\SkeletonUtility\SkeletonUtilityConstraint.cs" />
+     <Compile Include="Assets\Asset Store\Spine\spine-unity\SpineAttributes.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\Benchmark01.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\Benchmark01_UGUI.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\Benchmark02.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\Benchmark03.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\Benchmark04.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\CameraController.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\ChatController.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\EnvMapAnimator.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\ObjectSpin.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\ShaderPropAnimator.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\SimpleScript.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\SkewTextExample.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\TeleType.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\TextConsoleSimulator.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\TextMeshProFloatingText.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\TextMeshSpawner.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\TMP_DigitValidator.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\TMP_ExampleScript_01.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\TMP_FrameRateCounter.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\TMP_TextEventCheck.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\TMP_TextEventHandler.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\TMP_TextInfoDebugTool.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\TMP_TextSelector_A.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\TMP_TextSelector_B.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\TMP_UiFrameRateCounter.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\TMPro_InstructionOverlay.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\VertexColorCycler.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\VertexJitter.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\VertexShakeA.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\VertexShakeB.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\VertexZoom.cs" />
+     <Compile Include="Assets\Asset Store\TextMesh Pro\Examples\Scripts\WarpTextExample.cs" />
+     <Compile Include="Assets\REMOVEME_TempStoryButtonScript.cs" />
+     <Compile Include="Assets\Scripts\Actor\BattleActor.cs" />
+     <Compile Include="Assets\Scripts\Actor\BossActor.cs" />
+     <Compile Include="Assets\Scripts\Actor\Hero.cs" />
+     <Compile Include="Assets\Scripts\Actor\HeroActor.cs" />
+     <Compile Include="Assets\Scripts\Actor\TapMonsterActor.cs" />
+     <Compile Include="Assets\Scripts\BattleScripts\ActorSelector.cs" />
+     <Compile Include="Assets\Scripts\BattleScripts\BattleRootController.cs" />
+     <Compile Include="Assets\Scripts\BattleScripts\BossBattle\BossBattleController.cs" />
+     <Compile Include="Assets\Scripts\BattleScripts\BossBattle\CharacterHandler.cs" />
+     <Compile Include="Assets\Scripts\BattleScripts\BossBattle\MonsterHandler.cs" />
+     <Compile Include="Assets\Scripts\BattleScripts\BossBattle\TempExploreCleanup.cs" />
+     <Compile Include="Assets\Scripts\BattleScripts\GetWeaponBone.cs" />
+     <Compile Include="Assets\Scripts\BattleScripts\TapBattle\TapBattleController.cs" />
+     <Compile Include="Assets\Scripts\BattleScripts\TapBattle\TapCharacterHandler.cs" />
+     <Compile Include="Assets\Scripts\BattleScripts\TapBattle\TapMonsterHandler.cs" />
+     <Compile Include="Assets\Scripts\Data\BaseData.cs" />
+     <Compile Include="Assets\Scripts\Data\BoostData.cs" />
+     <Compile Include="Assets\Scripts\Data\CollectionCustomDictionaries.cs" />
+     <Compile Include="Assets\Scripts\Data\CollectionEnums.cs" />
+     <Compile Include="Assets\Scripts\Data\Enemies\BossData.cs" />
+     <Compile Include="Assets\Scripts\Data\Enemies\BossFightData.cs" />
+     <Compile Include="Assets\Scripts\Data\Enemies\MonsterData.cs" />
+     <Compile Include="Assets\Scripts\Data\Entity.cs" />
+     <Compile Include="Assets\Scripts\Data\ExploreData\ActData.cs" />
+     <Compile Include="Assets\Scripts\Data\ExploreData\ActiveExploration.cs" />
+     <Compile Include="Assets\Scripts\Data\ExploreData\ZoneData.cs" />
+     <Compile Include="Assets\Scripts\Data\GlobalsData.cs" />
+     <Compile Include="Assets\Scripts\Data\HeroData.cs" />
+     <Compile Include="Assets\Scripts\Data\Items\AffixData.cs" />
+     <Compile Include="Assets\Scripts\Data\Items\CrateTypeData.cs" />
+     <Compile Include="Assets\Scripts\Data\Items\Item.cs" />
+     <Compile Include="Assets\Scripts\Data\Items\ItemAffix.cs" />
+     <Compile Include="Assets\Scripts\Data\Items\ItemArmor.cs" />
+     <Compile Include="Assets\Scripts\Data\Items\ItemArtifact.cs" />
+     <Compile Include="Assets\Scripts\Data\Items\ItemCurrency.cs" />
+     <Compile Include="Assets\Scripts\Data\Items\ItemData.cs" />
+     <Compile Include="Assets\Scripts\Data\Items\ItemModData.cs" />
+     <Compile Include="Assets\Scripts\Data\Items\ItemWeapon.cs" />
+     <Compile Include="Assets\Scripts\Data\Items\LootCrate.cs" />
+     <Compile Include="Assets\Scripts\Data\Items\LootTableData.cs" />
+     <Compile Include="Assets\Scripts\Data\Items\UniqueReference.cs" />
+     <Compile Include="Assets\Scripts\Data\LocalizationData.cs" />
+     <Compile Include="Assets\Scripts\Data\MongoData.cs" />
+     <Compile Include="Assets\Scripts\Data\PlayerLevelReward.cs" />
+     <Compile Include="Assets\Scripts\Data\RetireRewardsData.cs" />
+     <Compile Include="Assets\Scripts\Data\RewardsByPlayerLevel.cs" />
+     <Compile Include="Assets\Scripts\Data\Skills\SkillData.cs" />
+     <Compile Include="Assets\Scripts\Data\StorySection.cs" />
+     <Compile Include="Assets\Scripts\Managers\AdvertisingManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\AudioManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\BuildManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\CheatManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\CurrencyManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\DataManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\GameAPIManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\JSONManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\ManagerPrefabLoader.cs" />
+     <Compile Include="Assets\Scripts\Managers\ManagerSingleton.cs" />
+     <Compile Include="Assets\Scripts\Managers\MenuManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\NodeJSManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\PlayerManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\ScreenFaderManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\StoryManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\TutorialManager.cs" />
+     <Compile Include="Assets\Scripts\SceneLoaders\LoadBossBattle.cs" />
+     <Compile Include="Assets\Scripts\SceneLoaders\LoadCamp.cs" />
+     <Compile Include="Assets\Scripts\SceneLoaders\LoadCrates.cs" />
+     <Compile Include="Assets\Scripts\SceneLoaders\LoadExplore.cs" />
+     <Compile Include="Assets\Scripts\SceneLoaders\LoadTapBattle.cs" />
+     <Compile Include="Assets\Scripts\ScratchFile.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Audio\AudioEvent.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Audio\CompositeAudioEvent.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Audio\SimpleAudioEvent.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\LeaderSkills\LeaderSkill.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Skills\Skill.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Skills\SkillBehaviour.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Skills\SkillBehaviourAnimation.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Skills\SkillBehaviourApplyStatusEffect.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Skills\SkillBehaviourDealDamage.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Skills\SkillBehaviourDelay.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Skills\SkillBehaviourFadeCharacter.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Skills\SkillBehaviourMove.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Skills\SkillBehaviourReturn.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Skills\SkillBehaviourSkillInterrupt.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Skills\SkillBehaviourSpawnEffect.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Skills\SkillBehaviourSpawnEffectAtTarget.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\Skills\SkillBehaviourTurnDelay.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\StatusEffects\StatusEffect.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\StatusEffects\StatusEffectBlockAttacks.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\StatusEffects\StatusEffectDamageOverTime.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\StatusEffects\StatusEffectDamageReduction.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\StatusEffects\StatusEffectOnHit.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\StatusEffects\StatusEffectReducedDamage.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\StatusEffects\StatusEffectReduceTurnDelay.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\StatusEffects\StatusEffectStun.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\TapSkills\TapSkill.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Battle\BattleCratesInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Battle\BattleResultsHeroResults.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Battle\BattleResultsInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Battle\BossBattle\BossBattleInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Battle\BossBattle\EnemyHealthBarInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Battle\BossBattle\PartyMemberUISection.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Battle\BossBattle\SkillUIHandler.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Battle\BossBattle\TurnOrderHandler.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Battle\BossBattle\TurnOrderHeroController.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Battle\FloatingCombatTextInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Battle\FloatingCombatTextObject.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Battle\TapBattle\TapBattleInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Battle\TapBattle\TapHeroDetailsInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\CampInterface\CampInteractable.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\CampInterface\HeroSpawner.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\CampInterface\ParallaxHandler.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Enchanting\EnchantInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Explore\ActDetailsInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Explore\ActDetailsOverviewInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Explore\ActSelect\ActInformationInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Explore\ActSelect\ActNavigation.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Explore\ActSelect\ActPortalInterfaceObject.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Explore\ActSelect\ActSelectInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Explore\ActSelect\PossibleZoneLoot.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Explore\ActSelect\ZoneBossDetails.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Explore\ActSelect\ZoneLootOverview.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Explore\ActSelect\ZoneLootTooltip.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Explore\ExploreInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Explore\PartyMemberSelector.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Explore\ZoneInformationInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Explore\ZoneMovementInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\CampExploreActDisplayInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\CampExploreActZoneDetailsInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\CampExploreInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\CampExploreZoneDetailsInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\CampHeroInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\CampInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\CampSummonInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\Enchanting\CampEnchantingInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\Enchanting\EnchantingCostIcon.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\Enchanting\EnchantingInventory.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\Enchanting\EnchantingItemDetails.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\FilterHeroInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\FloatingCrystal.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\HeroDetailsInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\HeroDisplay.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\HeroDisplayInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\HeroInventoryInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\HeroRetireRewardsInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\HeroScreen\ItemComparesOnHeroScreenInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\HeroScreen\ItemDetailsOnHeroScreenInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\HeroScreen\LeaderSkillDisplayHandler.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\HeroScreen\SkillDisplayHandler.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\HeroScreen\SkillTooltip.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\HeroScreen\TapSkillDisplayHandler.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\HeroUIAnimationHandler.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\InboxInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\InboxItemInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\InboxMailboxIcon.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\ItemDetailsInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\ItemDisplayInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\ItemStoreItemDetails.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\PlayerLevelInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\PlayerLevelRewardsContainer.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\PremiumMenuInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\PremiumShopItemButton.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\RetireRewardInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\ShopExpandStoreButton.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\ShopFeaturedItemInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\ShopInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\SplashManagerInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\SummonButtonContainer.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\SummonInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FrontEnd\UpgradeHeroInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FX\AutoRotate.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FX\FXBehaviour.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FX\TextShadow.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FX\VineMovement.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\FX\WavyPosition.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\HeaderBar\HeaderBarInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\HeaderBar\HeaderBoostDisplay.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\LootCrate\IndividualCrateOpening\LootCrateInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\LootCrate\LootCrateBox.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\LootCrate\LootCrateItem.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\LootCrate\LootCrateScreenInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Research\ResearchInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Research\ResearchSlotInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Research\ResearchUnidentifiedItems.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\UserLogin\UserLoginInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\UserLogin\UserProfileCategoryContainer.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\UserLogin\UserProfileHeroContainer.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\UserLogin\UserProfileHeroGenericDetails.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\UserLogin\UserProfileInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\UserLogin\UserProfileItemContainer.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\UserLogin\UserProfileTabGear.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\UserLogin\UserProfileTabHeroes.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\UserLogin\UserProfileTabItems.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\UserLogin\UserProfileTabSettings.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Utility\ActScrollRectBehaviour.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Utility\ConfirmFilter.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Utility\ConfirmYesNoInterface.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Utility\ErrorLogs.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Utility\Panel.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Utility\PanelWithGetters.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Utility\ScrollRectAlternateBehaviour.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Utility\ScrollRectSnap.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Utility\ScrollSnap_v2.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Utility\SnapToRightOfBar.cs" />
+     <Compile Include="Assets\Scripts\UIInterfaces\Utility\UISizeAdjustment.cs" />
+     <Compile Include="Assets\Scripts\Utility\Base.cs" />
+     <Compile Include="Assets\Scripts\Utility\DontDestroyOnLoad.cs" />
+     <Compile Include="Assets\Scripts\Utility\ExtensionMethods.cs" />
+     <Compile Include="Assets\Scripts\Utility\ForceSceneLoad.cs" />
+     <Compile Include="Assets\Scripts\Utility\FullResetScene.cs" />
+     <Compile Include="Assets\Scripts\Utility\Heap.cs" />
+     <Compile Include="Assets\Scripts\Utility\JSONObject\JSONObject.cs" />
+     <Compile Include="Assets\Scripts\Utility\JSONObject\JSONTemplates.cs" />
+     <Compile Include="Assets\Scripts\Utility\JSONObject\VectorTemplates.cs" />
+     <Compile Include="Assets\Scripts\Utility\MathHelper.cs" />
+     <Compile Include="Assets\Scripts\Utility\MiniJSON\MiniJSON.cs" />
+     <Compile Include="Assets\Scripts\Utility\MinMaxRangedAttribute.cs" />
+     <Compile Include="Assets\Scripts\Utility\MonoBehaviourExtendedMethodExtensionForMonoBehaviourTransform.cs" />
+     <Compile Include="Assets\Scripts\Utility\Patches\FixScrollSensitivity.cs" />
+     <Compile Include="Assets\Scripts\Utility\RangedFloat.cs" />
+     <Compile Include="Assets\Scripts\Utility\Singleton.cs" />
+     <Compile Include="Assets\Scripts\Utility\SpineUtilities\SpineAnimationBehaviour.cs" />
+     <Compile Include="Assets\Scripts\Utility\Test\MathTest.cs" />
+     <Compile Include="Assets\Scripts\Utility\Test\TutorialDataClear.cs" />
+     <Compile Include="Assets\Scripts\Utility\TimelineTween.cs" />
+     <Compile Include="Assets\Scripts\Utility\UI\ChoiceButton.cs" />
+     <Compile Include="Assets\Scripts\Utility\UI\HeightAdjuster.cs" />
+     <Compile Include="Assets\Scripts\Utility\UI\KeepUIImageOnScreen.cs" />
+     <Compile Include="Assets\Scripts\Utility\UI\LayoutAnimator.cs" />
+     <Compile Include="Assets\Scripts\Utility\UI\PulseTextColor.cs" />
+     <Compile Include="Assets\Scripts\Utility\UI\VerticalPositionAdjuster.cs" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Editor\Resources\SpineAssetDatabaseMarker.txt" />
+     <None Include="Assets\Asset Store\Demigiant\DOTween\readme.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Shaders\Utility\HiddenPass.shader" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Spine-Skeleton-Fill.shader" />
+     <None Include="Assets\Assets\Imported Assets\Characters\AwokenHeroes\RareAssassin\Earth\AssasinRareEarth.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpritePixelLighting.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpriteVertexLighting.cginc" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act4\AngelicBoss\AngelicBoss.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpriteShadows.cginc" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act1\MiniSapling\MiniSapling.atlas.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Fonts\Anton OFL.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteShadows.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpritePixelLighting.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpriteLighting.cginc" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act4\AngelicDragon\AngelicDragon.atlas.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\SkeletonGraphic\Shaders\Spine-SkeletonGraphic-TintBlack.shader" />
+     <None Include="Assets\Assets\Imported Assets\Characters\Bruisers\BruiserGeneric.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\ShaderShared.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\CustomMaterials\SkeletonRendererCustomMaterials.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
+     <None Include="Assets\Assets\Imported Assets\Characters\Assassin\Assassin.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act1\Satyr\Satyr.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act3\StarFish\StarFish.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act3\Merman\Merman.atlas.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <None Include="Assets\Assets\Imported Assets\Characters\AwokenHeroes\RareAssassin\Water\AssasinRareWater.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteLighting.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\SlotBlendModes\Spine-Skeleton-PMA-Screen.shader" />
+     <None Include="Assets\Assets\Imported Assets\Characters\AwokenHeroes\RareAssassin\Flame\AssasinRareFlame.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpriteUnlit.cginc" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteUnlit.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\version.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpritesPixelLit.shader" />
+     <None Include="Assets\Assets\Imported Assets\Characters\TestSamurai\character-sample.atlas.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Fonts\Oswald-Bold - OFL.txt" />
+     <None Include="Assets\Assets\Imported Assets\Characters\Samurai\Samurai.atlas.txt" />
+     <None Include="Assets\Asset Store\Demigiant\DOTween\DOTween43.xml" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Spine-Skeleton-Tint.shader" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act3\Shark\Shark.atlas.txt" />
+     <None Include="Assets\Plugins\SquarePieStudios Tools\readme-inspectionary.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpritesUnlit.shader" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Shaders\Utility\Hidden-Spine-Bones.shader" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act5\DemonicBoss\DemonicBoss.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpritesVertexLit.shader" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act2\LavaBeast\LavaBeast.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Characters\Mage\MageGeneric.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Ghost\Shaders\Spine-Special-Skeleton-Ghost.shader" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <None Include="Assets\Assets\Imported Assets\Characters\AwokenHeroes\RareAssassin\Light\AssasinRareLight.atlas.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+     <None Include="Assets\Asset Store\Demigiant\DOTween\DOTween50.xml" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteVertexLighting.cginc" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act3\FishyBoss\FishyBoss.atlas.txt" />
+     <None Include="Assets\Asset Store\Demigiant\DOTween\DOTween46.xml" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Fonts\Bangers - OFL.txt" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act3\AnglerFish\AnglerFish.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CameraDepthNormalsTexture.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Shaders\Spine-Skeleton-TintBlack.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\ShaderShared.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\SkeletonGraphic\Shaders\Spine-SkeletonGraphic.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Shaders\Spine-Skeleton.shader" />
+     <None Include="Assets\Assets\Imported Assets\Characters\RareAssassin\AssasinRare.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act1\Wolf\Wolf.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CameraNormalsTexture.shader" />
+     <None Include="Assets\Assets\Imported Assets\Skills\MageColumnEffect\Opaque\Skill1Effect.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Characters\RareMage\MageRare.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Characters\AwokenHeroes\RareAssassin\Dark\AssasinRareDark.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act1\Plant\pixelart-bossExtended.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Skills\MageColumnEffect\Translucent\Skill1Effect.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CameraDepthTexture.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\SlotBlendModes\Spine-Skeleton-PMA-Multiply.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\ShaderMaths.cginc" />
+     <None Include="Assets\Assets\Imported Assets\Characters\Tank\Tank_Extended.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\SkeletonRenderSeparator\SkeletonRenderSeparator.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpriteDepthNormalsTexture.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Shaders\Spine-SkeletonLit.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteSpecular.cginc" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act4\Pegasus\Pegasus.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act1\Golem\Golem.atlas.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TestRunner">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Timeline">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UIAutomation">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.GoogleAudioSpatializer">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SpatialTracking">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
+ </Reference>
+ <Reference Include="ICSharpCode.SharpZipLib">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Plugins/SimpleJSON/ICSharpCode.SharpZipLib.dll</HintPath>
+ </Reference>
+ <Reference Include="Newtonsoft.Json">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Plugins/NewtonsoftJSON/Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="TraceDLL">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Plugins/TraceDLL/TraceDLL.dll</HintPath>
+ </Reference>
+ <Reference Include="RSG.Promise">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Plugins/RealSeriousGames/RSG.Promise.dll</HintPath>
+ </Reference>
+ <Reference Include="TextMeshPro-1.0.55.56.0b10">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Asset Store/TextMesh Pro/Plugins/TextMeshPro-1.0.55.56.0b10.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Asset Store/Demigiant/DOTween/DOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween43">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Asset Store/Demigiant/DOTween/DOTween43.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween50">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Asset Store/Demigiant/DOTween/DOTween50.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween46">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Asset Store/Demigiant/DOTween/DOTween46.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>/Users/ricky/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@1.0.1/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>/Users/ricky/Library/Unity/cache/packages/packages.unity.com/com.unity.purchasing@1.0.1/UnityEngine.Purchasing.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{C4F7D7ED-E1D5-29D5-417F-6BA148C8EED1}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

@@ -1,0 +1,132 @@
+
+AssasinRare.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon1
+  rotate: true
+  xy: 9, 28
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+Weapon2
+  rotate: false
+  xy: 22, 2
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 35, 29
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+l-arm-mid
+  rotate: false
+  xy: 107, 17
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+l-arm-up
+  rotate: false
+  xy: 76, 13
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+l-foot
+  rotate: true
+  xy: 116, 50
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+l-hand
+  rotate: false
+  xy: 76, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+l-leg-mid
+  rotate: false
+  xy: 85, 31
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+l-leg-up
+  rotate: false
+  xy: 98, 48
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+r-arm-mid
+  rotate: false
+  xy: 101, 31
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+r-arm-up
+  rotate: true
+  xy: 92, 13
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+r-foot
+  rotate: true
+  xy: 85, 49
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+r-hand
+  rotate: false
+  xy: 87, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+r-leg-mid
+  rotate: false
+  xy: 107, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+r-leg-up
+  rotate: true
+  xy: 58, 7
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: true
+  xy: 68, 31
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+shade
+  rotate: true
+  xy: 2, 24
+  size: 38, 5
+  orig: 38, 5
+  offset: 0, 0
+  index: -1

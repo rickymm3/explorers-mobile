@@ -1,0 +1,440 @@
+
+MageRare.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SpinnyDisc/MageRareDisc0001
+  rotate: false
+  xy: 2, 199
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0006
+  rotate: false
+  xy: 2, 142
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0007
+  rotate: false
+  xy: 59, 199
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0008
+  rotate: false
+  xy: 2, 85
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0009
+  rotate: false
+  xy: 59, 142
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0010
+  rotate: false
+  xy: 116, 199
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0011
+  rotate: false
+  xy: 2, 28
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0012
+  rotate: false
+  xy: 59, 85
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0013
+  rotate: false
+  xy: 116, 142
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0014
+  rotate: false
+  xy: 173, 199
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0015
+  rotate: false
+  xy: 59, 28
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0016
+  rotate: false
+  xy: 116, 85
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0017
+  rotate: false
+  xy: 173, 142
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0018
+  rotate: false
+  xy: 230, 199
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0019
+  rotate: false
+  xy: 116, 28
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0020
+  rotate: false
+  xy: 173, 85
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0021
+  rotate: false
+  xy: 230, 142
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0022
+  rotate: false
+  xy: 287, 199
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0023
+  rotate: false
+  xy: 173, 28
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0024
+  rotate: false
+  xy: 230, 85
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0025
+  rotate: false
+  xy: 287, 142
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0026
+  rotate: false
+  xy: 344, 199
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0027
+  rotate: false
+  xy: 230, 28
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0028
+  rotate: false
+  xy: 287, 85
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0029
+  rotate: false
+  xy: 344, 142
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0030
+  rotate: false
+  xy: 401, 199
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0031
+  rotate: false
+  xy: 287, 28
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0032
+  rotate: false
+  xy: 344, 85
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0033
+  rotate: false
+  xy: 401, 142
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0034
+  rotate: false
+  xy: 458, 199
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0035
+  rotate: false
+  xy: 344, 28
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0036
+  rotate: false
+  xy: 401, 85
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0037
+  rotate: false
+  xy: 458, 142
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0038
+  rotate: false
+  xy: 515, 199
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0039
+  rotate: false
+  xy: 401, 28
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+SpinnyDisc/MageRareDisc0040
+  rotate: false
+  xy: 458, 85
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 515, 143
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 487, 65
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 458, 57
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+head-acc
+  rotate: false
+  xy: 515, 100
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+hood
+  rotate: false
+  xy: 602, 239
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+l-arm-mid
+  rotate: false
+  xy: 547, 161
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+l-arm-up
+  rotate: false
+  xy: 595, 212
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+l-foot
+  rotate: true
+  xy: 471, 33
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+l-hand
+  rotate: false
+  xy: 547, 149
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+l-leg-mid
+  rotate: false
+  xy: 30, 2
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+l-leg-up
+  rotate: false
+  xy: 45, 14
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+l-waist-robe
+  rotate: false
+  xy: 547, 177
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+r-arm-mid
+  rotate: false
+  xy: 30, 10
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+r-arm-up
+  rotate: false
+  xy: 471, 43
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+r-foot
+  rotate: false
+  xy: 609, 214
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+r-hand
+  rotate: false
+  xy: 638, 246
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+r-leg-mid
+  rotate: true
+  xy: 45, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+r-leg-up
+  rotate: true
+  xy: 602, 226
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+r-waist-robe
+  rotate: false
+  xy: 572, 204
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+ribbon-1
+  rotate: false
+  xy: 458, 33
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+ribbon1
+  rotate: true
+  xy: 503, 71
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+ribbon2
+  rotate: false
+  xy: 626, 241
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 515, 112
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+scarf-tail
+  rotate: false
+  xy: 2, 8
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 515, 124
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+staff-light
+  rotate: false
+  xy: 572, 226
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

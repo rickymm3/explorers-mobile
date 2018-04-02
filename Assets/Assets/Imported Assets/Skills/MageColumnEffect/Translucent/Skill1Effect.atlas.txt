@@ -1,0 +1,27 @@
+
+Skill1Effect.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 315, 11
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Column
+  rotate: true
+  xy: 2, 36
+  size: 58, 311
+  orig: 58, 311
+  offset: 0, 0
+  index: -1
+Crystals
+  rotate: false
+  xy: 2, 2
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1

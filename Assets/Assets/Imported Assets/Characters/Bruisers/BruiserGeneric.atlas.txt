@@ -1,0 +1,125 @@
+
+BruiserGeneric.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BHand
+  rotate: false
+  xy: 51, 13
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+PonyTail
+  rotate: false
+  xy: 73, 46
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 24
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 4
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 43, 33
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+l-foot-bot
+  rotate: false
+  xy: 73, 35
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+l-foot-mid
+  rotate: false
+  xy: 105, 51
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+l-foot-top
+  rotate: true
+  xy: 88, 34
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+l-hand-mid
+  rotate: false
+  xy: 38, 11
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+l-hand-top
+  rotate: false
+  xy: 63, 13
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+r-foot-bot
+  rotate: false
+  xy: 51, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+r-foot-mid
+  rotate: false
+  xy: 64, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+r-foot-top
+  rotate: false
+  xy: 22, 8
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+r-hand-bot
+  rotate: false
+  xy: 118, 54
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+r-hand-mid
+  rotate: false
+  xy: 105, 39
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+r-hand-top
+  rotate: false
+  xy: 91, 46
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+shade
+  rotate: false
+  xy: 43, 25
+  size: 26, 6
+  orig: 26, 6
+  offset: 0, 0
+  index: -1

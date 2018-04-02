@@ -1,0 +1,139 @@
+
+Samurai.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Axe
+  rotate: false
+  xy: 2, 59
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+BFoot
+  rotate: false
+  xy: 89, 114
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+BLowerarm
+  rotate: false
+  xy: 27, 45
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+BLowerleg
+  rotate: false
+  xy: 16, 19
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+BSkirt
+  rotate: false
+  xy: 182, 240
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+BUpperarm
+  rotate: false
+  xy: 168, 237
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+BUpperleg
+  rotate: false
+  xy: 168, 225
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+FFoot
+  rotate: false
+  xy: 27, 38
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+FLowerarm
+  rotate: false
+  xy: 64, 99
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+FLowerleg
+  rotate: false
+  xy: 38, 51
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+FSkirt
+  rotate: false
+  xy: 2, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+FUpperleg
+  rotate: false
+  xy: 132, 188
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 132, 217
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 27
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+MSkirt
+  rotate: false
+  xy: 147, 205
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+RUpperarm
+  rotate: false
+  xy: 2, 13
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 64, 114
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+Swish
+  rotate: false
+  xy: 2, 121
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 132, 200
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+pixelart-bossExtended.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Feet
+  rotate: false
+  xy: 2, 19
+  size: 117, 43
+  orig: 117, 43
+  offset: 0, 0
+  index: -1
+HeadPetal1
+  rotate: false
+  xy: 428, 25
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+HeadPetal2
+  rotate: false
+  xy: 723, 21
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+HeadPetal3
+  rotate: true
+  xy: 678, 20
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+HeadPetal4
+  rotate: false
+  xy: 856, 35
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+HeadPetal5
+  rotate: false
+  xy: 767, 22
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+Hips
+  rotate: false
+  xy: 476, 33
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+LowerJaw
+  rotate: false
+  xy: 630, 28
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 228, 17
+  size: 84, 45
+  orig: 84, 45
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 377, 24
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+UpperJaw
+  rotate: false
+  xy: 812, 23
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+W1-Bone1
+  rotate: true
+  xy: 2, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+W1-Bone2
+  rotate: true
+  xy: 460, 2
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+W1-Bone3
+  rotate: false
+  xy: 856, 23
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+W1-Bone4
+  rotate: false
+  xy: 17, 5
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+W1-Bone5
+  rotate: true
+  xy: 508, 4
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+W1-Bone6
+  rotate: false
+  xy: 723, 2
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+W1-Bone7
+  rotate: false
+  xy: 974, 39
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+W3-Bone1
+  rotate: false
+  xy: 428, 2
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+W3-Bone2
+  rotate: true
+  xy: 812, 2
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+W3-Bone3
+  rotate: true
+  xy: 905, 32
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+W3-Flower
+  rotate: true
+  xy: 532, 26
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+W4-Bone1
+  rotate: false
+  xy: 940, 46
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+W4-Bone2
+  rotate: false
+  xy: 476, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+W4-Bone3
+  rotate: true
+  xy: 848, 2
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+W4-Bone4
+  rotate: false
+  xy: 749, 2
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+W4-Flower
+  rotate: true
+  xy: 581, 26
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+front flower
+  rotate: false
+  xy: 314, 19
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+whip2
+  rotate: false
+  xy: 121, 14
+  size: 105, 48
+  orig: 105, 48
+  offset: 0, 0
+  index: -1

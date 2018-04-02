@@ -1,0 +1,146 @@
+
+Wolf.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 260, 22
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 442, 50
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+fur
+  rotate: false
+  xy: 102, 20
+  size: 84, 42
+  orig: 84, 42
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 188, 23
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+l-leg back bottom
+  rotate: false
+  xy: 260, 11
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+l-leg back mid
+  rotate: false
+  xy: 228, 2
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+l-leg back up
+  rotate: false
+  xy: 2, 25
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+l-leg front bottom
+  rotate: false
+  xy: 424, 34
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+l-leg front mid
+  rotate: true
+  xy: 209, 2
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+l-leg front up
+  rotate: false
+  xy: 392, 33
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 188, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+r-leg back bottom
+  rotate: false
+  xy: 47, 15
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+r-leg back mid
+  rotate: false
+  xy: 243, 6
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+r-leg back up
+  rotate: true
+  xy: 2, 6
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+r-leg front bottom
+  rotate: false
+  xy: 457, 54
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+r-leg front mid
+  rotate: false
+  xy: 424, 46
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+r-leg front up
+  rotate: false
+  xy: 29, 9
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 188, 53
+  size: 106, 9
+  orig: 106, 9
+  offset: 0, 0
+  index: -1
+tail 1
+  rotate: false
+  xy: 306, 31
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+tail 2
+  rotate: false
+  xy: 355, 37
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1

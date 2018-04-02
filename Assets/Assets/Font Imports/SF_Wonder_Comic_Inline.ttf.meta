@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 72099881c7676cd45b3c5ded3418e8ee
+timeCreated: 1499352450
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Wonder Comic Inline
+  fontNames:
+  - SF Wonder Comic Inline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 290a2b433a2263545a912b77eda2d433, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

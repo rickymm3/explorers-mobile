@@ -1,0 +1,118 @@
+
+FishyBoss.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shade
+  rotate: false
+  xy: 183, 103
+  size: 134, 23
+  orig: 134, 23
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 183, 54
+  size: 78, 47
+  orig: 78, 47
+  offset: 0, 0
+  index: -1
+l-arm-mid
+  rotate: false
+  xy: 191, 19
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+l-arm-up
+  rotate: false
+  xy: 151, 5
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+l-hand
+  rotate: true
+  xy: 247, 19
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+low-body1
+  rotate: false
+  xy: 263, 47
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+low-body2
+  rotate: false
+  xy: 330, 95
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+low-mouth
+  rotate: false
+  xy: 465, 91
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+r-arm-mid
+  rotate: false
+  xy: 369, 27
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+r-arm-up
+  rotate: false
+  xy: 278, 19
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+tail-vin
+  rotate: true
+  xy: 330, 26
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: false
+  xy: 330, 63
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: false
+  xy: 404, 99
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+up-body
+  rotate: true
+  xy: 91, 2
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+vin
+  rotate: false
+  xy: 91, 49
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 3
+  size: 87, 123
+  orig: 87, 123
+  offset: 0, 0
+  index: -1

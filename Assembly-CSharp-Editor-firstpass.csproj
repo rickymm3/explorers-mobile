@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LangVersion>4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{2E6C98D8-A729-D715-98F7-21FEF965AF0F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_2_0;UNITY_2017_2;UNITY_2017;PLATFORM_ARCH_64;UNITY_64;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_PACKMAN;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;PLATFORM_STANDALONE_OSX;PLATFORM_STANDALONE;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_VR;ENABLE_AR;ENABLE_SPATIALTRACKING;ENABLE_CLUSTERINPUT;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Plugins\Editor\Editor Utilities\DrawerUtil.cs" />
+     <Compile Include="Assets\Plugins\Editor\Inspectionary\InspectionaryDrawer.cs" />
+     <Compile Include="Assets\Plugins\Editor\Inspectionary\PredefinedInspectionaryDrawers\Inspectionary_ComponentDrawers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Inspectionary\PredefinedInspectionaryDrawers\Inspectionary_FloatDrawers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Inspectionary\PredefinedInspectionaryDrawers\Inspectionary_GameObjectDrawers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Inspectionary\PredefinedInspectionaryDrawers\Inspectionary_IntDrawers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Inspectionary\PredefinedInspectionaryDrawers\Inspectionary_StringDrawers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Inspectionary\PredefinedInspectionaryDrawers\Inspectionary_TransformDrawers.cs" />
+     <Compile Include="Assets\Plugins\Editor\Inspectionary\PredefinedInspectionaryDrawers\Inspectionary_Vector3Drawers.cs" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Editor\Resources\SpineAssetDatabaseMarker.txt" />
+     <None Include="Assets\Asset Store\Demigiant\DOTween\readme.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Shaders\Utility\HiddenPass.shader" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Spine-Skeleton-Fill.shader" />
+     <None Include="Assets\Assets\Imported Assets\Characters\AwokenHeroes\RareAssassin\Earth\AssasinRareEarth.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpritePixelLighting.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpriteVertexLighting.cginc" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act4\AngelicBoss\AngelicBoss.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpriteShadows.cginc" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act1\MiniSapling\MiniSapling.atlas.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Fonts\Anton OFL.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteShadows.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpritePixelLighting.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpriteLighting.cginc" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act4\AngelicDragon\AngelicDragon.atlas.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\SkeletonGraphic\Shaders\Spine-SkeletonGraphic-TintBlack.shader" />
+     <None Include="Assets\Assets\Imported Assets\Characters\Bruisers\BruiserGeneric.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\ShaderShared.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\CustomMaterials\SkeletonRendererCustomMaterials.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
+     <None Include="Assets\Assets\Imported Assets\Characters\Assassin\Assassin.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act1\Satyr\Satyr.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act3\StarFish\StarFish.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act3\Merman\Merman.atlas.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <None Include="Assets\Assets\Imported Assets\Characters\AwokenHeroes\RareAssassin\Water\AssasinRareWater.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteLighting.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\SlotBlendModes\Spine-Skeleton-PMA-Screen.shader" />
+     <None Include="Assets\Assets\Imported Assets\Characters\AwokenHeroes\RareAssassin\Flame\AssasinRareFlame.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpriteUnlit.cginc" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteUnlit.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\version.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpritesPixelLit.shader" />
+     <None Include="Assets\Assets\Imported Assets\Characters\TestSamurai\character-sample.atlas.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Fonts\Oswald-Bold - OFL.txt" />
+     <None Include="Assets\Assets\Imported Assets\Characters\Samurai\Samurai.atlas.txt" />
+     <None Include="Assets\Asset Store\Demigiant\DOTween\DOTween43.xml" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Spine-Skeleton-Tint.shader" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act3\Shark\Shark.atlas.txt" />
+     <None Include="Assets\Plugins\SquarePieStudios Tools\readme-inspectionary.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpritesUnlit.shader" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Shaders\Utility\Hidden-Spine-Bones.shader" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act5\DemonicBoss\DemonicBoss.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpritesVertexLit.shader" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act2\LavaBeast\LavaBeast.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Characters\Mage\MageGeneric.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Ghost\Shaders\Spine-Special-Skeleton-Ghost.shader" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <None Include="Assets\Assets\Imported Assets\Characters\AwokenHeroes\RareAssassin\Light\AssasinRareLight.atlas.txt" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+     <None Include="Assets\Asset Store\Demigiant\DOTween\DOTween50.xml" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteVertexLighting.cginc" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act3\FishyBoss\FishyBoss.atlas.txt" />
+     <None Include="Assets\Asset Store\Demigiant\DOTween\DOTween46.xml" />
+     <None Include="Assets\Asset Store\TextMesh Pro\Fonts\Bangers - OFL.txt" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act3\AnglerFish\AnglerFish.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CameraDepthNormalsTexture.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Shaders\Spine-Skeleton-TintBlack.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\ShaderShared.cginc" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\SkeletonGraphic\Shaders\Spine-SkeletonGraphic.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Shaders\Spine-Skeleton.shader" />
+     <None Include="Assets\Assets\Imported Assets\Characters\RareAssassin\AssasinRare.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act1\Wolf\Wolf.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CameraNormalsTexture.shader" />
+     <None Include="Assets\Assets\Imported Assets\Skills\MageColumnEffect\Opaque\Skill1Effect.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Characters\RareMage\MageRare.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Characters\AwokenHeroes\RareAssassin\Dark\AssasinRareDark.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act1\Plant\pixelart-bossExtended.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Skills\MageColumnEffect\Translucent\Skill1Effect.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CameraDepthTexture.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\SlotBlendModes\Spine-Skeleton-PMA-Multiply.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\ShaderMaths.cginc" />
+     <None Include="Assets\Assets\Imported Assets\Characters\Tank\Tank_Extended.atlas.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\SkeletonRenderSeparator\SkeletonRenderSeparator.txt" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\SpriteDepthNormalsTexture.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Shaders\Spine-SkeletonLit.shader" />
+     <None Include="Assets\Asset Store\Spine\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteSpecular.cginc" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act4\Pegasus\Pegasus.atlas.txt" />
+     <None Include="Assets\Assets\Imported Assets\Monsters\Act1\Golem\Golem.atlas.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Networking">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.TestRunner">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TestRunner">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Timeline">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Timeline">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.TreeEditor">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UIAutomation">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UIAutomation">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/Editor/UnityEditor.UIAutomation.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.GoogleAudioSpatializer">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.GoogleAudioSpatializer">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.HoloLens">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.SpatialTracking">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/Editor/UnityEditor.SpatialTracking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SpatialTracking">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.VR">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Graphs">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.Graphs.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Android.Extensions">
+ <HintPath>/Applications/Unity/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.OSXStandalone.Extensions">
+ <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
+ </Reference>
+ <Reference Include="ICSharpCode.SharpZipLib">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Plugins/SimpleJSON/ICSharpCode.SharpZipLib.dll</HintPath>
+ </Reference>
+ <Reference Include="Newtonsoft.Json">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Plugins/NewtonsoftJSON/Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="TraceDLL">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Plugins/TraceDLL/TraceDLL.dll</HintPath>
+ </Reference>
+ <Reference Include="RSG.Promise">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Plugins/RealSeriousGames/RSG.Promise.dll</HintPath>
+ </Reference>
+ <Reference Include="TextMeshPro-1.0.55.56.0b10">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Asset Store/TextMesh Pro/Plugins/TextMeshPro-1.0.55.56.0b10.dll</HintPath>
+ </Reference>
+ <Reference Include="TextMeshPro-1.0.55.56.0b10-Editor">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Asset Store/TextMesh Pro/Plugins/Editor/TextMeshPro-1.0.55.56.0b10-Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Asset Store/Demigiant/DOTween/DOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween43">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Asset Store/Demigiant/DOTween/DOTween43.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween50">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Asset Store/Demigiant/DOTween/DOTween50.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween46">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Asset Store/Demigiant/DOTween/DOTween46.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTweenEditor">
+ <HintPath>/Users/ricky/Documents/code/summonersfrontier/SummonersFrontier/Assets/Asset Store/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Advertisements">
+ <HintPath>/Users/ricky/Library/Unity/cache/packages/packages.unity.com/com.unity.ads@1.0.7/Editor/UnityEditor.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>/Users/ricky/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@1.0.1/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Analytics">
+ <HintPath>/Users/ricky/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@1.0.1/Editor/UnityEditor.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>/Users/ricky/Library/Unity/cache/packages/packages.unity.com/com.unity.purchasing@1.0.1/UnityEngine.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Purchasing">
+ <HintPath>/Users/ricky/Library/Unity/cache/packages/packages.unity.com/com.unity.purchasing@1.0.1/Editor/UnityEditor.Purchasing.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{C4F7D7ED-E1D5-29D5-417F-6BA148C8EED1}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

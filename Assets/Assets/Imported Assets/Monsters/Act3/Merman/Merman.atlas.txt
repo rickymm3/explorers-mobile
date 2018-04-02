@@ -1,0 +1,97 @@
+
+Merman.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L-arm-mid
+  rotate: false
+  xy: 177, 17
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+L-arm-top
+  rotate: false
+  xy: 183, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+L-hand
+  rotate: false
+  xy: 232, 42
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+R-arm-mid
+  rotate: false
+  xy: 214, 23
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+R-arm-top
+  rotate: false
+  xy: 214, 37
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+R-hand
+  rotate: false
+  xy: 122, 7
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 17
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 138, 35
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 138, 2
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 85, 2
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 9
+  size: 39, 6
+  orig: 39, 6
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 85, 30
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+undermouth
+  rotate: false
+  xy: 196, 17
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1

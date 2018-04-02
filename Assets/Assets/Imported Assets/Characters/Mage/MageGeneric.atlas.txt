@@ -1,0 +1,104 @@
+
+MageGeneric.png
+size: 256,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-Shoulder
+  rotate: false
+  xy: 184, 18
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+F-Shoulder
+  rotate: true
+  xy: 123, 2
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+FHand
+  rotate: false
+  xy: 208, 22
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 2, 3
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 107, 13
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 51, 3
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+l-arm-mid
+  rotate: true
+  xy: 123, 18
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+l-foot
+  rotate: true
+  xy: 219, 22
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+l-hand-top
+  rotate: true
+  xy: 107, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+r-arm-mid
+  rotate: true
+  xy: 167, 17
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+r-foot
+  rotate: false
+  xy: 197, 21
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+r-hand-top
+  rotate: true
+  xy: 230, 23
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shade
+  rotate: false
+  xy: 143, 24
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 81, 7
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1

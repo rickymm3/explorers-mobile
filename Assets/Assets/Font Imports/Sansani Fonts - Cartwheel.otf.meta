@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 49572809828a9584eb95ef3c673f6042
+timeCreated: 1499175994
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cartwheel
+  fontNames:
+  - Cartwheel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

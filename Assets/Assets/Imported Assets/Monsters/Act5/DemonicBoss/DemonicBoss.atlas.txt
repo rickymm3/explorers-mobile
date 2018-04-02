@@ -1,0 +1,202 @@
+
+DemonicBoss.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BlueFire1
+  rotate: false
+  xy: 126, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BlueFire2
+  rotate: false
+  xy: 256, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BlueFire3
+  rotate: false
+  xy: 386, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BlueFire4
+  rotate: false
+  xy: 516, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BlueFire5
+  rotate: false
+  xy: 646, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 126, 113
+  size: 77, 11
+  orig: 77, 11
+  offset: 0, 0
+  index: -1
+collar
+  rotate: false
+  xy: 874, 114
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+crow
+  rotate: true
+  xy: 826, 105
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+f-robe
+  rotate: false
+  xy: 873, 156
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+f-robe-tail
+  rotate: true
+  xy: 19, 3
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 339, 107
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 287, 99
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+hood
+  rotate: false
+  xy: 826, 151
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+hood-tail
+  rotate: false
+  xy: 248, 100
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 323, 100
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+l-arm-low
+  rotate: true
+  xy: 205, 102
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+l-arm-up
+  rotate: true
+  xy: 963, 225
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+low-bone
+  rotate: false
+  xy: 358, 107
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+robe-wave1
+  rotate: false
+  xy: 2, 25
+  size: 53, 81
+  orig: 53, 81
+  offset: 0, 0
+  index: -1
+robe-wave2
+  rotate: false
+  xy: 776, 183
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+robe-wave3
+  rotate: false
+  xy: 776, 128
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+robe-wave4
+  rotate: true
+  xy: 57, 2
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+robe-wave5
+  rotate: false
+  xy: 826, 205
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+robe-wave6
+  rotate: false
+  xy: 893, 218
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+stone
+  rotate: false
+  xy: 57, 47
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+thumb
+  rotate: true
+  xy: 2, 2
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+up-bone
+  rotate: false
+  xy: 377, 112
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 108
+  size: 122, 146
+  orig: 122, 146
+  offset: 0, 0
+  index: -1

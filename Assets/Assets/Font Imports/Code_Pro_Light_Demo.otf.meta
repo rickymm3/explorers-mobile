@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bf32d135c0e65b44bb72f2c69334acea
+timeCreated: 1499352634
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Code Pro Light Demo
+  fontNames:
+  - Code Pro Light Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

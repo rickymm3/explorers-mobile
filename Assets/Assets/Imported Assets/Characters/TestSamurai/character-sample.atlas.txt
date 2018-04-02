@@ -1,0 +1,132 @@
+
+character-sample.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer11
+  rotate: true
+  xy: 2, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Layer21
+  rotate: false
+  xy: 71, 31
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Layer42
+  rotate: false
+  xy: 38, 31
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Layer44
+  rotate: false
+  xy: 50, 21
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+Layer45
+  rotate: false
+  xy: 61, 22
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+Layer46
+  rotate: true
+  xy: 71, 48
+  size: 11, 41
+  orig: 11, 41
+  offset: 0, 0
+  index: -1
+Layer47
+  rotate: false
+  xy: 86, 32
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+Layer48
+  rotate: false
+  xy: 112, 33
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+Layer49
+  rotate: false
+  xy: 99, 25
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+Layer50
+  rotate: false
+  xy: 99, 36
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Layer51
+  rotate: false
+  xy: 112, 22
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Layer52
+  rotate: false
+  xy: 72, 22
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Layer53
+  rotate: true
+  xy: 81, 21
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+Layer54
+  rotate: false
+  xy: 38, 20
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Layer55
+  rotate: false
+  xy: 88, 23
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Layer56
+  rotate: false
+  xy: 34, 13
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 27
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+l-shoulder
+  rotate: true
+  xy: 114, 44
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1

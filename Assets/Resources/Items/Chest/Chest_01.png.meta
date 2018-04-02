@@ -1,0 +1,5252 @@
+fileFormatVersion: 2
+guid: a2b0af740b1fb344389ec1d615657381
+timeCreated: 1499451283
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_31
+    21300002: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_34
+    21300004: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_38
+    21300006: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_41
+    21300008: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_52
+    21300010: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_55
+    21300012: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_72
+    21300014: Sword_01
+    21300016: Sword_02
+    21300018: Sword_03
+    21300020: Sword_04
+    21300022: Sword_05
+    21300024: Sword_06
+    21300026: Sword_07
+    21300028: Sword_08
+    21300030: Sword_09
+    21300032: Sword_10
+    21300034: Sword_11
+    21300036: Sword_12
+    21300038: Sword_13
+    21300040: Sword_14
+    21300042: Dagger_01
+    21300044: Dagger_02
+    21300046: Dagger_03
+    21300048: Dagger_04
+    21300050: Dagger_05
+    21300052: Dagger_06
+    21300054: Dagger_07
+    21300056: Fist_01
+    21300058: Fist_02
+    21300060: Fist_03
+    21300062: Fist_04
+    21300064: Fist_05
+    21300066: Fist_06
+    21300068: Fist_07
+    21300070: Fist_08
+    21300072: Fist_09
+    21300074: Fist_10
+    21300076: Fist_11
+    21300078: Fist_12
+    21300080: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_106
+    21300082: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_107
+    21300084: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_108
+    21300086: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_109
+    21300088: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_110
+    21300090: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_111
+    21300092: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_112
+    21300094: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_113
+    21300096: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_114
+    21300098: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_115
+    21300100: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_116
+    21300102: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_117
+    21300104: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_118
+    21300106: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_119
+    21300108: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_120
+    21300110: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_121
+    21300112: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_122
+    21300114: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_123
+    21300116: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_124
+    21300118: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_125
+    21300120: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_126
+    21300122: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_127
+    21300124: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_128
+    21300126: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_129
+    21300128: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_130
+    21300130: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_131
+    21300132: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_132
+    21300134: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_133
+    21300136: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_134
+    21300138: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_135
+    21300140: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_136
+    21300142: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_137
+    21300144: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_138
+    21300146: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_139
+    21300148: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_140
+    21300150: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_141
+    21300152: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_142
+    21300154: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_143
+    21300156: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_144
+    21300158: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_145
+    21300160: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_146
+    21300162: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_147
+    21300164: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_148
+    21300166: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_149
+    21300168: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_150
+    21300170: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_151
+    21300172: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_152
+    21300174: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_153
+    21300176: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_154
+    21300178: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_155
+    21300180: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_156
+    21300182: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_157
+    21300184: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_158
+    21300186: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_159
+    21300188: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_160
+    21300190: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_161
+    21300192: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_162
+    21300194: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_163
+    21300196: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_164
+    21300198: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_165
+    21300200: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_166
+    21300202: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_167
+    21300204: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_168
+    21300206: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_169
+    21300208: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_170
+    21300210: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_171
+    21300212: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_172
+    21300214: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_173
+    21300216: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_174
+    21300218: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_175
+    21300220: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_176
+    21300222: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_177
+    21300224: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_178
+    21300226: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_179
+    21300228: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_180
+    21300230: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_181
+    21300232: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_182
+    21300234: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_183
+    21300236: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_184
+    21300238: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_185
+    21300240: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_186
+    21300242: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_187
+    21300244: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_188
+    21300246: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_189
+    21300248: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_190
+    21300250: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_191
+    21300252: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_192
+    21300254: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_193
+    21300256: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_194
+    21300258: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_195
+    21300260: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_196
+    21300262: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_197
+    21300264: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_198
+    21300266: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_199
+    21300268: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_200
+    21300270: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_201
+    21300272: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_202
+    21300274: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_203
+    21300276: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_204
+    21300278: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_205
+    21300280: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_206
+    21300282: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_207
+    21300284: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_208
+    21300286: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_209
+    21300288: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_210
+    21300290: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_211
+    21300292: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_212
+    21300294: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_213
+    21300296: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_214
+    21300298: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_215
+    21300300: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_216
+    21300302: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_217
+    21300304: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_218
+    21300306: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_219
+    21300308: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_220
+    21300310: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_221
+    21300312: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_222
+    21300314: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_223
+    21300316: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_224
+    21300318: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_225
+    21300320: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_226
+    21300322: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_227
+    21300324: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_228
+    21300326: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_229
+    21300328: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_230
+    21300330: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_231
+    21300332: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_232
+    21300334: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_233
+    21300336: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_234
+    21300338: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_235
+    21300340: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_236
+    21300342: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_237
+    21300344: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_238
+    21300346: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_239
+    21300348: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_240
+    21300350: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_241
+    21300352: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_242
+    21300354: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_243
+    21300356: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_244
+    21300358: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_245
+    21300360: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_246
+    21300362: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_247
+    21300364: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_248
+    21300366: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_249
+    21300368: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_250
+    21300370: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_251
+    21300372: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_252
+    21300374: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_253
+    21300376: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_254
+    21300378: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_255
+    21300380: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_256
+    21300382: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_257
+    21300384: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_258
+    21300386: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_259
+    21300388: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_260
+    21300390: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_261
+    21300392: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_262
+    21300394: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_263
+    21300396: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_264
+    21300398: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_265
+    21300400: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_266
+    21300402: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_267
+    21300404: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_268
+    21300406: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_269
+    21300408: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_270
+    21300410: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_271
+    21300412: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_272
+    21300414: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_273
+    21300416: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_274
+    21300418: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_275
+    21300420: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_276
+    21300422: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_277
+    21300424: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_278
+    21300426: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_279
+    21300428: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_280
+    21300430: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_281
+    21300432: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_282
+    21300434: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_283
+    21300436: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_284
+    21300438: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_285
+    21300440: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_286
+    21300442: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_287
+    21300444: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_288
+    21300446: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_289
+    21300448: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_290
+    21300450: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_291
+    21300452: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_292
+    21300454: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_293
+    21300456: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_294
+    21300458: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_295
+    21300460: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_296
+    21300462: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_297
+    21300464: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_298
+    21300466: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_299
+    21300468: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_300
+    21300470: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_301
+    21300472: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_302
+    21300474: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_303
+    21300476: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_304
+    21300478: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_305
+    21300480: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_306
+    21300482: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_307
+    21300484: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_308
+    21300486: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_309
+    21300488: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_310
+    21300490: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_311
+    21300492: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_312
+    21300494: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_313
+    21300496: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_314
+    21300498: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_315
+    21300500: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_316
+    21300502: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_317
+    21300504: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_318
+    21300506: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_319
+    21300508: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_320
+    21300510: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_321
+    21300512: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_322
+    21300514: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_323
+    21300516: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_324
+    21300518: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_325
+    21300520: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_326
+    21300522: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_327
+    21300524: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_328
+    21300526: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_329
+    21300528: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_330
+    21300530: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_331
+    21300532: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_332
+    21300534: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_333
+    21300536: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_334
+    21300538: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_335
+    21300540: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_336
+    21300542: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_337
+    21300544: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_338
+    21300546: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_339
+    21300548: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_340
+    21300550: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_341
+    21300552: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_342
+    21300554: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_343
+    21300556: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_344
+    21300558: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_345
+    21300560: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_346
+    21300562: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_347
+    21300564: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_348
+    21300566: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_349
+    21300568: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_350
+    21300570: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_351
+    21300572: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_352
+    21300574: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_353
+    21300576: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_354
+    21300578: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_355
+    21300580: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_356
+    21300582: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_357
+    21300584: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_358
+    21300586: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_359
+    21300588: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_360
+    21300590: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_361
+    21300592: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_362
+    21300594: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_363
+    21300596: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_364
+    21300598: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_365
+    21300600: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_366
+    21300602: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_367
+    21300604: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_368
+    21300606: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_369
+    21300608: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_370
+    21300610: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_371
+    21300612: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_372
+    21300614: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_373
+    21300616: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_374
+    21300618: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_375
+    21300620: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_376
+    21300622: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_377
+    21300624: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_378
+    21300626: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_379
+    21300628: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_380
+    21300630: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_381
+    21300632: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_382
+    21300634: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_383
+    21300636: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_384
+    21300638: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_385
+    21300640: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_386
+    21300642: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_387
+    21300644: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_388
+    21300646: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_389
+    21300648: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_390
+    21300650: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_391
+    21300652: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_392
+    21300654: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_393
+    21300656: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_394
+    21300658: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_395
+    21300660: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_396
+    21300662: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_397
+    21300664: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_398
+    21300666: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_399
+    21300668: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_400
+    21300670: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_401
+    21300672: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_402
+    21300674: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_403
+    21300676: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_404
+    21300678: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_405
+    21300680: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_406
+    21300682: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_407
+    21300684: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_408
+    21300686: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_409
+    21300688: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_410
+    21300690: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_411
+    21300692: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_412
+    21300694: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_413
+    21300696: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_414
+    21300698: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_415
+    21300700: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_416
+    21300702: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_417
+    21300704: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_418
+    21300706: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_419
+    21300708: Relic_01
+    21300710: Relic_02
+    21300712: Relic_03
+    21300714: Relic_04
+    21300716: Relic_05
+    21300718: Relic_06
+    21300720: Relic_07
+    21300722: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_427
+    21300724: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_428
+    21300726: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_429
+    21300728: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_430
+    21300730: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_431
+    21300732: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_432
+    21300734: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_433
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 920
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 920
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_38
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 920
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 920
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_52
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 887
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_55
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 887
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_72
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 855
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword_01
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 820
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword_02
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 817
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword_03
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 817
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword_04
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 817
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword_05
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 817
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword_06
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 817
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword_07
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 817
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword_08
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 817
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword_09
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 817
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 820
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 817
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 817
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 817
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword_14
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 818
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dagger_01
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 790
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dagger_02
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 790
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dagger_03
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 786
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dagger_04
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 786
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dagger_05
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 785
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dagger_06
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 787
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dagger_07
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 788
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fist_01
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 787
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fist_02
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 783
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fist_03
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 783
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fist_04
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 784
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fist_05
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 783
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fist_06
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 783
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fist_07
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 784
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fist_08
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 751
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fist_09
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 751
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fist_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 751
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fist_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 751
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fist_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 751
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_106
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 749
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_107
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 749
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_108
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 749
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_109
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 749
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_110
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 749
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_111
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 751
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_112
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 751
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_113
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 749
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_114
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 750
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_115
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 716
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_116
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 716
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_117
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 716
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_118
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 715
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_119
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 715
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_120
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 715
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_121
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 715
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_122
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 715
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_123
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 715
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_124
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 715
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_125
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 715
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_126
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 715
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_127
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 715
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_128
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 715
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_129
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 685
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_130
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 684
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_131
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 682
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_132
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 682
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_133
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 681
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_134
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 682
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_135
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 681
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_136
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 681
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_137
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 681
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_138
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 682
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_139
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 684
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_140
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 681
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_141
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 681
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_142
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 681
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_143
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 648
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_144
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 647
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_145
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_146
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_147
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 649
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_148
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 648
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_149
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 647
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_150
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 646
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_151
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 646
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_152
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 646
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_153
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 647
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_154
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 647
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_155
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 647
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_156
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 647
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_157
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 613
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_158
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 613
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_159
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 613
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_160
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 613
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_161
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 613
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_162
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 613
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_163
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 614
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_164
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 614
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_165
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 613
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_166
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 613
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_167
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 613
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_168
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 613
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_169
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 613
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_170
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 613
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_171
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 580
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_172
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 580
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_173
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 579
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_174
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 579
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_175
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 578
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_176
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 579
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_177
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 579
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_178
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 580
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_179
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 580
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_180
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 579
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_181
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 579
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_182
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 580
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_183
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 579
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_184
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 579
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_185
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 546
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_186
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 546
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_187
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 547
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_188
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 546
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_189
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 545
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_190
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 545
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_191
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 547
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_192
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 546
+        width: 68
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_193
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 551
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_194
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 547
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_195
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 545
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_196
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 545
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_197
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 514
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_198
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 514
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_199
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 514
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_200
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 514
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_201
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 514
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_202
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 514
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_203
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 514
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_204
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 511
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_205
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 511
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_206
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 511
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_207
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 511
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_208
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 511
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_209
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 511
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_210
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 511
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_211
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 482
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_212
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 479
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_213
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 481
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_214
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 480
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_215
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 482
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_216
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 481
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_217
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 483
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_218
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 481
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_219
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 481
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_220
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 481
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_221
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 479
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_222
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 479
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_223
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 479
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_224
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 480
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_225
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 481
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_226
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 443
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_227
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 442
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_228
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 443
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_229
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 444
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_230
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 442
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_231
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 442
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_232
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 445
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_233
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 443
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_234
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 442
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_235
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 443
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_236
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 443
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_237
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 444
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_238
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 443
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_239
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 442
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_240
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 412
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_241
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 411
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_242
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 411
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_243
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 413
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_244
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 411
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_245
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 411
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_246
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 413
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_247
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 413
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_248
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 411
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_249
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 410
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_250
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 409
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_251
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 374
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_252
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 410
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_253
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 412
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_254
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 376
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_255
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 379
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_256
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 380
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_257
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 379
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_258
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 376
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_259
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 378
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_260
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 375
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_261
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 377
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_262
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 377
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_263
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 377
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_264
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 375
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_265
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 379
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_266
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 375
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_267
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 342
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_268
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 342
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_269
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 342
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_270
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 342
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_271
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 342
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_272
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 345
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_273
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_274
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 341
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_275
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 341
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_276
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 340
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_277
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 341
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_278
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 341
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_279
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 342
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_280
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 342
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_281
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 307
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_282
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 307
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_283
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 307
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_284
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 307
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_285
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 306
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_286
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 307
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_287
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 318
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_288
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 307
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_289
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 321
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_290
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 307
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_291
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 307
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_292
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 272
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_293
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 310
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_294
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 307
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_295
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 307
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_296
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 310
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_297
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_298
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_299
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_300
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 273
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_301
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 273
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_302
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 298
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_303
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 273
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_304
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 273
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_305
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 274
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_306
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 272
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_307
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 273
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_308
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_309
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 282
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_310
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 273
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_311
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_312
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 240
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_313
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 238
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_314
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 238
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_315
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 239
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_316
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 239
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_317
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 240
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_318
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 238
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_319
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 242
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_320
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 210
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_321
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 241
+        width: 136
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_322
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 206
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_323
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 205
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_324
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 205
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_325
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 205
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_326
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 205
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_327
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 205
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_328
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 205
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_329
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 205
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_330
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 207
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_331
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 207
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_332
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 205
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_333
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 207
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_334
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 205
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_335
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 221
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_336
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 204
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_337
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 208
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_338
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 170
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_339
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 171
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_340
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 171
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_341
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 171
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_342
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 171
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_343
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 171
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_344
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_345
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 192
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_346
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_347
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 172
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_348
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 171
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_349
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 173
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_350
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 172
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_351
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 170
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_352
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 171
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_353
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 172
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_354
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 183
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_355
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 183
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_356
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 174
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_357
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 171
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_358
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 174
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_359
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_360
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 137
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_361
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_362
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 138
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_363
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 137
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_364
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_365
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 140
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_366
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 154
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_367
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_368
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 137
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_369
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_370
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 141
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_371
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 136
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_372
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 138
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_373
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 137
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_374
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 139
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_375
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 139
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_376
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 103
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_377
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 103
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_378
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 103
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_379
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 103
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_380
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 103
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_381
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 103
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_382
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 103
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_383
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 103
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_384
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 103
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_385
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 103
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_386
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 103
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_387
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 103
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_388
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 103
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_389
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 103
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_390
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_391
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 70
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_392
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_393
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 69
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_394
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_395
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 68
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_396
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_397
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_398
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 69
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_399
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 72
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_400
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 77
+        width: 68
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_401
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 75
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_402
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_403
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 69
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_404
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 72
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_405
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_406
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_407
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_408
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_409
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_410
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_411
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_412
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 39
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_413
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 39
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_414
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 40
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_415
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 39
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_416
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 47
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_417
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 40
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_418
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 40
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_419
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 39
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Relic_01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Relic_02
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Relic_03
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Relic_04
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Relic_05
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Relic_06
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Relic_07
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_427
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_428
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_429
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_430
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_431
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_432
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 420__pixel_art__icons_for_rpg_by_7soul1-d25c1np_433
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
